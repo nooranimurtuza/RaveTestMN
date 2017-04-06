@@ -20,6 +20,7 @@ namespace RaveTestMN
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hi RaveTestMN");
+            MessageBox.Sow("Hi RaveTestMN");
         }
     }
 }
