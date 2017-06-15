@@ -21,7 +21,7 @@ namespace RaveTestMN
         {
             MessageBox.Show("Hi RaveTestMN");
             MessageBox.Show("Hi RaveTestMN 2nd");
-            MessageBox.Show("Hi RaveTestMN 3rd");
+            essageBox.Show("Hi RaveTestMN 3rd");
         }
     }
 }
